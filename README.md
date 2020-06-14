@@ -1,6 +1,8 @@
-## Overtime App
+# Overtime App
 
 ## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
+
+## Models
 
 - Post -> data:date tationale:text
 - User -> Devise
@@ -16,4 +18,4 @@
 
 ## UI:
 
-Bootstrap -> formatting
+- Bootstrap -> formatting
